@@ -8,7 +8,7 @@
 ## Team Members
 - **Team Leader:** [Bismah Javed]  
 - **Collaborator 1:** [Malaika Altaf]  
-- **Collaborator 2:** [Aima]  
+- **Collaborator 2:** [Aima Shafique]  
 
 ---
 
