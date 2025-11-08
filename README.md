@@ -42,7 +42,16 @@ The goal is to learn how to:
 
 ---
 
-##  Final Remarks (to be updated after completion)
-- [ ] All branches merged successfully  
-- [ ] Conflicts resolved  
-- [ ] Final report prepared and submitted  
+##  Final Remarks (Updated by Bismah – Team Leader)
+
+All team members of Group 10 successfully completed their GitHub tasks.  
+Each member created a branch, made three commits, and submitted a pull request.  
+All branches were reviewed, merged, and finalized without issues.  
+
+**Merged Branches:**
+- Bismah (Leader) – bismah-branch  
+- [Malaika Altaf] – member2-branch  
+- [Aima Shafique] – member3-branch  
+
+**Status:** All merges completed successfully.
+
